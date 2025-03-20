@@ -1,0 +1,9 @@
+"epsilon","method","acceptance_rate"
+0.1,"Standard",0.989057777777778
+0.1,"s_dp-aware",0.710835555555556
+1,"Standard",0.874675555555556
+1,"s_dp-aware",0.629455555555556
+3,"Standard",0.643577777777778
+3,"s_dp-aware",0.63736
+10,"Standard",0.140008888888889
+10,"s_dp-aware",0.134164444444444
